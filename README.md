@@ -6,11 +6,11 @@ I am someone who prefers to build something practical which solves a concrete pr
  
 ### What I've been building
  
-**AeroMind Command Center** — Interactive dashboard showcasing 500K+ flight operation data records along with calculated risk scores, key performance indicators and real-time geographic visualization of operations at US airports. Built using JavaScript, Chart.js and D3.js.
+**AeroMind Command Center** : Interactive dashboard showcasing 500K+ flight operation data records along with calculated risk scores, key performance indicators and real-time geographic visualization of operations at US airports. Built using JavaScript, Chart.js and D3.js.
  
-**Railway Safety Intelligence System** — A project centered around detecting safety risk patterns within railway operation datasets.
+**Railway Safety Intelligence System** : A project centered around detecting safety risk patterns within railway operation datasets.
  
-**Urban Public Safety Platform** — A civic complaint submission and public safety reporting platform which was built after experiencing the municipal workflow during my internship at Indore Municipal Corporation.
+**Urban Public Safety Platform** : A civic complaint submission and public safety reporting platform which was built after experiencing the municipal workflow during my internship at Indore Municipal Corporation.
  
 ### Some more about me
  
