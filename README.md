@@ -16,6 +16,6 @@ I am someone who prefers to build something practical which solves a concrete pr
  
 - Computer Science & Business Systems, IET DAVV Indore
 - Data Science, Machine Learning & Analytics - looking for internships and research in this field
-- Active in NSS
+- Headboy of NSS IET DAVV unit
 - Anthropic certified in Claude 101 and AI Fluency - always trying to understand the fundamental idea before using any tool for that task
 - Indore, India
