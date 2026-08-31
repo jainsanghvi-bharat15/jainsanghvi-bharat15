@@ -1,6 +1,6 @@
 # Hi, I'm Bharat
  
-I'm a third year student of B.Tech (CS & Business Systems) from IET DAVV, Indore who is currently engrossed mostly in data science, machine learning and analytics along with some civic-tech/automation projects on the side.
+I'm a third year student of B.Tech (Computer Science & Business Systems) from IET DAVV, Indore who is currently engrossed mostly in data science, machine learning and analytics along with some civic-tech/automation projects on the side.
  
 I am someone who prefers to build something practical which solves a concrete problem as opposed to building tutorial-like projects. Currently this involves exploring applications of machine learning and analyzing structured datasets along with looking into how AI techniques can be incorporated into actual processes and not just be used as a workaround.
  
